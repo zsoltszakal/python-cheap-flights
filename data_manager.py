@@ -1,6 +1,6 @@
 import requests
 
-SHEETY_API = ""
+SHEETY_API = "YOUR_API"
 
 
 class DataManager:
